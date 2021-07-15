@@ -1,5 +1,3 @@
-from itertools import count
-
 from kivy import Config
 from kivy.app import App
 from kivy.properties import NumericProperty
